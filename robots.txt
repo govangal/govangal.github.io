@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://govangal.github.io/sitemap.govangal.gz
+Sitemap: https://govangal.github.io/app/sitemap.govangal.gz
+Sitemap: https://govangal.github.io/assets/sitemap.govangal.gz
+Sitemap: https://govangal.github.io/css/sitemap.govangal.gz
+Sitemap: https://govangal.github.io/data/sitemap.govangal.gz
+Sitemap: https://govangal.github.io/includes/sitemap.govangal.gz
+Sitemap: https://govangal.github.io/item/sitemap.govangal.gz
+Sitemap: https://govangal.github.io/src/sitemap.govangal.gz
